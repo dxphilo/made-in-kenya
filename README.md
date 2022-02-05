@@ -9,4 +9,4 @@
 
 ## <a name="M"> </a>M
 
-- [ColorDetect](https://github.com/MarvinKweyu/ColorDetect) - Seamlessly scaffold a ready-to-use authentication system for your Adonis app with one neat command. **By [@marvinus_j](https://twitter.com/marvinus_j)**
+- [ColorDetect](https://github.com/MarvinKweyu/ColorDetect) - Detect and identify different color objects in an image/video **By [@marvinus_j](https://twitter.com/marvinus_j)**
